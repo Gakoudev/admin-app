@@ -2,8 +2,6 @@
 java 17
 Docker
 maven
-# Démonstration d'utilisation
-  # Scolarite-mono
 
 Ce référentiel contient un fichier Docker Compose pour déployer deux services Docker : un serveur MySQL (mysql-admin-db) et PhpMyAdmin (phpmyadmin-admin-db).
 
