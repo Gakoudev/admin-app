@@ -86,5 +86,5 @@ Ces étapes de test vous permettront de vous assurer que les services MySQL et P
 - Assurez-vous de personnaliser les informations d'identification dans le fichier `docker-compose.yml` selon vos besoins.
 - N'oubliez pas de sécuriser vos déploiements en production avec des pratiques appropriées.
 
-## SonarLint
+
 
